@@ -1,0 +1,1000 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2016-12-21T11:35:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "way/456510457",
+      "properties": {
+        "@id": "way/456510457",
+        "alt_name": "DJHSS",
+        "amenity": "school",
+        "name": "Diamond Jubliee Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4274202,
+              11.4546468
+            ],
+            [
+              77.4274497,
+              11.4525359
+            ],
+            [
+              77.4272973,
+              11.4514324
+            ],
+            [
+              77.4284184,
+              11.4512247
+            ],
+            [
+              77.4284721,
+              11.4517373
+            ],
+            [
+              77.4285206,
+              11.4520259
+            ],
+            [
+              77.4286111,
+              11.4524991
+            ],
+            [
+              77.428662,
+              11.4527567
+            ],
+            [
+              77.4287398,
+              11.4531116
+            ],
+            [
+              77.4287639,
+              11.4533114
+            ],
+            [
+              77.4287344,
+              11.4539239
+            ],
+            [
+              77.4284126,
+              11.4538792
+            ],
+            [
+              77.4284233,
+              11.4546836
+            ],
+            [
+              77.4274202,
+              11.4546468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456510459",
+      "properties": {
+        "@id": "way/456510459",
+        "amenity": "community_centre",
+        "landuse": "commercial",
+        "name": "Balamurugan Marraige Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4457155,
+              11.4504789
+            ],
+            [
+              77.4457081,
+              11.4501519
+            ],
+            [
+              77.4459019,
+              11.4501476
+            ],
+            [
+              77.4459093,
+              11.4504746
+            ],
+            [
+              77.4457155,
+              11.4504789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456510461",
+      "properties": {
+        "@id": "way/456510461",
+        "amenity": "school",
+        "name": "Saratha Institutions"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4302153,
+              11.4491651
+            ],
+            [
+              77.4301188,
+              11.4482818
+            ],
+            [
+              77.4299632,
+              11.447409
+            ],
+            [
+              77.4320768,
+              11.4469253
+            ],
+            [
+              77.4321948,
+              11.447785
+            ],
+            [
+              77.4308215,
+              11.4480715
+            ],
+            [
+              77.4311112,
+              11.4489706
+            ],
+            [
+              77.4302153,
+              11.4491651
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518579",
+      "properties": {
+        "@id": "way/456518579",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4431806,
+              11.4556787
+            ],
+            [
+              77.4430748,
+              11.4548383
+            ],
+            [
+              77.4436526,
+              11.4547928
+            ],
+            [
+              77.4437331,
+              11.4556182
+            ],
+            [
+              77.4431806,
+              11.4556787
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518580",
+      "properties": {
+        "@id": "way/456518580",
+        "amenity": "waste_disposal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4453156,
+              11.4566385
+            ],
+            [
+              77.4451493,
+              11.4557158
+            ],
+            [
+              77.4455624,
+              11.4556265
+            ],
+            [
+              77.4458064,
+              11.4556238
+            ],
+            [
+              77.4461337,
+              11.4557211
+            ],
+            [
+              77.4462141,
+              11.4558446
+            ],
+            [
+              77.4463134,
+              11.4564913
+            ],
+            [
+              77.4453156,
+              11.4566385
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518581",
+      "properties": {
+        "@id": "way/456518581",
+        "amenity": "school",
+        "name": "CKK Palaniammal School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.427208,
+              11.4579529
+            ],
+            [
+              77.4271678,
+              11.4574088
+            ],
+            [
+              77.42709,
+              11.4564913
+            ],
+            [
+              77.4274414,
+              11.4565045
+            ],
+            [
+              77.4274816,
+              11.4558893
+            ],
+            [
+              77.4282755,
+              11.4559235
+            ],
+            [
+              77.4282272,
+              11.4571065
+            ],
+            [
+              77.4282085,
+              11.457832
+            ],
+            [
+              77.427208,
+              11.4579529
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518582",
+      "properties": {
+        "@id": "way/456518582",
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Dakshin Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4458487,
+              11.4548976
+            ],
+            [
+              77.4457481,
+              11.4544139
+            ],
+            [
+              77.4459667,
+              11.4543627
+            ],
+            [
+              77.4460619,
+              11.4548687
+            ],
+            [
+              77.4458487,
+              11.4548976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518583",
+      "properties": {
+        "@id": "way/456518583",
+        "amenity": "hospital",
+        "name": "Government Hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4286188,
+              11.4558709
+            ],
+            [
+              77.4294398,
+              11.4558763
+            ],
+            [
+              77.4294392,
+              11.4559103
+            ],
+            [
+              77.4294314,
+              11.4563256
+            ],
+            [
+              77.4294559,
+              11.4571676
+            ],
+            [
+              77.4282978,
+              11.4571381
+            ],
+            [
+              77.4283402,
+              11.4563252
+            ],
+            [
+              77.4283666,
+              11.4558576
+            ],
+            [
+              77.4286188,
+              11.4558709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518584",
+      "properties": {
+        "@id": "way/456518584",
+        "amenity": "place_of_worship",
+        "name": "Pachaimalai Balamurugan Temple",
+        "religion": "hindu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.445207,
+              11.4497182
+            ],
+            [
+              77.4450058,
+              11.4497024
+            ],
+            [
+              77.4447054,
+              11.4496709
+            ],
+            [
+              77.4444425,
+              11.4496525
+            ],
+            [
+              77.4442789,
+              11.4495395
+            ],
+            [
+              77.4442414,
+              11.4494106
+            ],
+            [
+              77.4442494,
+              11.4492056
+            ],
+            [
+              77.4442682,
+              11.4490347
+            ],
+            [
+              77.4443862,
+              11.4488086
+            ],
+            [
+              77.4446625,
+              11.4486351
+            ],
+            [
+              77.4448234,
+              11.4485247
+            ],
+            [
+              77.4450273,
+              11.4484117
+            ],
+            [
+              77.4451909,
+              11.4483144
+            ],
+            [
+              77.4455154,
+              11.4482408
+            ],
+            [
+              77.4458427,
+              11.4481935
+            ],
+            [
+              77.4461457,
+              11.4481593
+            ],
+            [
+              77.4463818,
+              11.4481856
+            ],
+            [
+              77.446599,
+              11.4482434
+            ],
+            [
+              77.446701,
+              11.4483433
+            ],
+            [
+              77.4467519,
+              11.4484643
+            ],
+            [
+              77.4467519,
+              11.4488717
+            ],
+            [
+              77.446658,
+              11.4491136
+            ],
+            [
+              77.446481,
+              11.4492477
+            ],
+            [
+              77.446253,
+              11.449387
+            ],
+            [
+              77.4460116,
+              11.4495053
+            ],
+            [
+              77.4456817,
+              11.4496262
+            ],
+            [
+              77.445207,
+              11.4497182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456518585",
+      "properties": {
+        "@id": "way/456518585",
+        "amenity": "community_centre",
+        "landuse": "commercial",
+        "name": "Sitha Marraige Hall"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4452995,
+              11.4542592
+            ],
+            [
+              77.4453156,
+              11.453715
+            ],
+            [
+              77.4454095,
+              11.4537045
+            ],
+            [
+              77.4454524,
+              11.4533207
+            ],
+            [
+              77.4454604,
+              11.4531761
+            ],
+            [
+              77.4463643,
+              11.453297
+            ],
+            [
+              77.4463579,
+              11.4534444
+            ],
+            [
+              77.4463322,
+              11.4540278
+            ],
+            [
+              77.4452995,
+              11.4542592
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456519316",
+      "properties": {
+        "@id": "way/456519316",
+        "amenity": "theatre",
+        "landuse": "commercial",
+        "name": "Indra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4341945,
+              11.4528669
+            ],
+            [
+              77.434224,
+              11.4524857
+            ],
+            [
+              77.4348677,
+              11.4524962
+            ],
+            [
+              77.4349294,
+              11.4528669
+            ],
+            [
+              77.4341945,
+              11.4528669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456519317",
+      "properties": {
+        "@id": "way/456519317",
+        "amenity": "hospital",
+        "name": "Sitha laksmi hospital"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4335213,
+              11.4473253
+            ],
+            [
+              77.4344842,
+              11.4471176
+            ],
+            [
+              77.434739,
+              11.4477722
+            ],
+            [
+              77.4347309,
+              11.4478248
+            ],
+            [
+              77.4345271,
+              11.447809
+            ],
+            [
+              77.4345056,
+              11.4478721
+            ],
+            [
+              77.4337251,
+              11.4478563
+            ],
+            [
+              77.4337358,
+              11.4477538
+            ],
+            [
+              77.4335186,
+              11.447738
+            ],
+            [
+              77.4335213,
+              11.4473253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456524722",
+      "properties": {
+        "@id": "way/456524722",
+        "amenity": "marketplace"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.432207,
+              11.4554056
+            ],
+            [
+              77.4322432,
+              11.4550192
+            ],
+            [
+              77.4332262,
+              11.4550429
+            ],
+            [
+              77.4331431,
+              11.4556265
+            ],
+            [
+              77.432207,
+              11.4554056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/456564599",
+      "properties": {
+        "@id": "way/456564599",
+        "amenity": "theatre",
+        "landuse": "commercial",
+        "name": "Nagaiya"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4352759,
+              11.4540282
+            ],
+            [
+              77.4352867,
+              11.4538363
+            ],
+            [
+              77.4358016,
+              11.4538599
+            ],
+            [
+              77.4357802,
+              11.4540623
+            ],
+            [
+              77.4352759,
+              11.4540282
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527722195",
+      "properties": {
+        "@id": "node/4527722195",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4440328,
+          11.4548543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527722198",
+      "properties": {
+        "@id": "node/4527722198",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44286,
+          11.4550228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767313",
+      "properties": {
+        "@id": "node/4527767313",
+        "amenity": "atm",
+        "name": "City Union Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4389266,
+          11.455106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767314",
+      "properties": {
+        "@id": "node/4527767314",
+        "amenity": "bank",
+        "name": "Corporation Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4391338,
+          11.4549443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767315",
+      "properties": {
+        "@id": "node/4527767315",
+        "amenity": "atm",
+        "name": "Corporation Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4391546,
+          11.4549541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767316",
+      "properties": {
+        "@id": "node/4527767316",
+        "amenity": "bank",
+        "name": "Indian Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4392417,
+          11.4549449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767317",
+      "properties": {
+        "@id": "node/4527767317",
+        "amenity": "atm",
+        "name": "Indian Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4392578,
+          11.4549463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767318",
+      "properties": {
+        "@id": "node/4527767318",
+        "amenity": "atm",
+        "name": "UCO Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4351795,
+          11.4542845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767319",
+      "properties": {
+        "@id": "node/4527767319",
+        "amenity": "bank",
+        "name": "UCO Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4351701,
+          11.4543068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527767330",
+      "properties": {
+        "@id": "node/4527767330",
+        "amenity": "bank",
+        "name": "Union Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.438189,
+          11.4549686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527777952",
+      "properties": {
+        "@id": "node/4527777952",
+        "amenity": "atm",
+        "name": "State Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4295154,
+          11.4576178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527777953",
+      "properties": {
+        "@id": "node/4527777953",
+        "amenity": "bank",
+        "name": "State Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4295127,
+          11.4577098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527861264",
+      "properties": {
+        "@id": "node/4527861264",
+        "amenity": "bank",
+        "name": "Indian Overseas Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4353954,
+          11.4502282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527861265",
+      "properties": {
+        "@id": "node/4527861265",
+        "amenity": "atm",
+        "name": "Indian Overseas Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4352399,
+          11.4502729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4527861266",
+      "properties": {
+        "@id": "node/4527861266",
+        "amenity": "atm",
+        "name": "Union Bank of India"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4381715,
+          11.4549653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4528055734",
+      "properties": {
+        "@id": "node/4528055734",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4270905,
+          11.454985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4528055736",
+      "properties": {
+        "@id": "node/4528055736",
+        "amenity": "courthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4287213,
+          11.4550954
+        ]
+      }
+    }
+  ]
+}

@@ -6,6 +6,7 @@
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.css' rel='stylesheet' />
+    <script src="./highway.js"></script>
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -66,7 +67,8 @@ var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/streets-v9',
     zoom: 15,
-    center: [77.436,11.455]
+    center: [77.436,11.455],
+    hash: true
 });
 
 map.on('load', function () {
@@ -74,41 +76,39 @@ map.on('load', function () {
         type: 'geojson',
         data: './highway.geojson'
     });
+
     map.addLayer({
-        'id': 'highway'
+        'id': 'highway',
         'type': 'line',
         'source': 'highway',
-        'layout': {
-            'visibility': 'visible'
-        },
-        'paint': {
-            "line-color": "#888",
-            "line-width": 8
-        },
-    });
-
-    map.addSource('contours', {
-        type: 'vector',
-        url: 'mapbox://mapbox.mapbox-terrain-v2'
-    });
-    map.addLayer({
-        'id': 'contours',
-        'type': 'line',
-        'source': 'contours',
-        'source-layer': 'contour',
         'layout': {
             'visibility': 'visible',
             'line-join': 'round',
             'line-cap': 'round'
         },
         'paint': {
-            'line-color': '#877b59',
-            'line-width': 1
+            "line-color": "#529",
+            "line-width": 3
+        },
+    });
+
+    map.addSource('amenity', {
+        type: 'geojson',
+        data: './amenity.geojson'
+    });
+    map.addLayer({
+        'id': 'amenity',
+        'type': 'fill',
+        'source': 'amenity',
+        'layout': {},
+        'paint': {
+            'fill-color': '#088',
+            'fill-opacity': 0.8
         }
     });
 });
 
-var toggleableLayerIds = [ 'contours', 'highway' ];
+var toggleableLayerIds = [ 'amenity', 'highway' ];
 
 for (var i = 0; i < toggleableLayerIds.length; i++) {
     var id = toggleableLayerIds[i];
