@@ -66,7 +66,7 @@ var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/streets-v9',
     zoom: 15,
-    center: [-71.97722138410576, -13.517379300798098]
+    center: [77.436,11.455]
 });
 
 map.on('load', function () {
@@ -108,7 +108,7 @@ map.on('load', function () {
     });
 });
 
-var toggleableLayerIds = [ 'contours', 'museums' ];
+var toggleableLayerIds = [ 'contours', 'highway' ];
 
 for (var i = 0; i < toggleableLayerIds.length; i++) {
     var id = toggleableLayerIds[i];
