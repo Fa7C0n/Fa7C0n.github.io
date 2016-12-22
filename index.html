@@ -164,17 +164,22 @@ map.on('mousemove', function(e) {
         .setHTML(feature.properties.name)
         .addTo(map);
 });
+
+var popup1 = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+});
 map.on('mousemove', function(f) {
     var features = map.queryRenderedFeatures(f.point, { layers: ['amenity'] });
     map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 
     if (!features.length) {
-        popup.remove();
+        popup1.remove();
         return;
     }
 
     var feature = features[0];
-    popup.setLngLat(map.unproject(f.point))
+    popup1.setLngLat(map.unproject(f.point))
         .setHTML(feature.properties.name)
         .addTo(map);
 });
