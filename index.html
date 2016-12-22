@@ -16,8 +16,8 @@
 </head>
 <body>
 
-<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.0.1/mapbox-gl-geocoder.js'></script>
-<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.0.1/mapbox-gl-geocoder.css' type='text/css' />
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.0.3/mapbox-gl-directions.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.0.3/mapbox-gl-directions.css' type='text/css' />
 
 <style>
     #menu {
@@ -68,19 +68,14 @@
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiZmE3YzBuIiwiYSI6ImNpdzFwZ3B3ajA5YzcydG1kdDI2eWk1M3AifQ.GaEzobtcc5YAsCuaHUrY4w';
+
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/light-v9',
+    style: 'mapbox://styles/mapbox/dark-v9',
     zoom: 14,
     center: [77.436,11.455],
     hash: true
 });
-
-map.addControl(new MapboxGeocoder({
-    accessToken: mapboxgl.accessToken
-}), 'top-left');
-
-map.addControl(new mapboxgl.NavigationControl(), 'top-left');
 
 map.on('load', function () {
     map.addSource('highway', {
@@ -98,7 +93,7 @@ map.on('load', function () {
             'line-cap': 'round'
         },
         'paint': {
-            "line-color": "#97958f",
+            "line-color": "#fbfd5c",
             "line-width": 3
         },
     });
@@ -143,6 +138,12 @@ map.on('load', function () {
         },
     });
 });
+
+map.addControl(new MapboxDirections({
+    accessToken: mapboxgl.accessToken
+}), 'top-left');
+
+map.addControl(new mapboxgl.NavigationControl(), 'top-left');
 
 var popup = new mapboxgl.Popup({
     closeButton: false,
