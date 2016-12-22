@@ -70,7 +70,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiZmE3YzBuIiwiYSI6ImNpdzFwZ3B3ajA5YzcydG1kdDI2eWk1M3AifQ.GaEzobtcc5YAsCuaHUrY4w';
 var map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/streets-v9',
+    style: 'mapbox://styles/mapbox/light-v9',
     zoom: 14,
     center: [77.436,11.455],
     hash: true
@@ -98,7 +98,7 @@ map.on('load', function () {
             'line-cap': 'round'
         },
         'paint': {
-            "line-color": "#529",
+            "line-color": "#97958f",
             "line-width": 3
         },
     });
@@ -113,9 +113,18 @@ map.on('load', function () {
         'source': 'amenity',
         'layout': {},
         'paint': {
-            'fill-color': '#088',
-            'fill-opacity': 0.8
+            'fill-color': '#a9f0d1',
+            'fill-opacity': 1
         }
+    });
+    map.addLayer({
+        'id': 'amenity-s',
+        'type': 'symbol',
+        'source': 'amenity',
+        'layout': {
+            'icon-image': '{amenity}-15',
+            'icon-allow-overlap': true
+        },
     });
     map.addSource('poi',{
         type: 'geojson',
@@ -125,17 +134,37 @@ map.on('load', function () {
 
     map.addLayer({
         'id': 'poi',
-        'type': 'circle',
+        'type': 'symbol',
         'source': 'poi',
         'layout': {
-            'visibility': 'visible'
-        },
-        'paint': {
-            'circle-radius': 8,
-            'circle-color': "#ffh088"
+            'visibility': 'visible',
+            'icon-image': '{amenity}-15',
+            'icon-allow-overlap': true
         },
     });
 });
+
+var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false
+});
+
+map.on('mousemove', function(e) {
+    var features = map.queryRenderedFeatures(e.point, { layers: ['poi'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
+
+    if (!features.length) {
+        popup.remove();
+        return;
+    }
+
+    var feature = features[0];
+    popup.setLngLat(feature.geometry.coordinates)
+        .setHTML(feature.properties.name)
+        .addTo(map);
+});
+
+
 
 var toggleableLayerIds = [ 'amenity', 'highway', 'poi' ];
 
