@@ -164,7 +164,20 @@ map.on('mousemove', function(e) {
         .setHTML(feature.properties.name)
         .addTo(map);
 });
+map.on('mousemove', function(f) {
+    var features = map.queryRenderedFeatures(f.point, { layers: ['amenity'] });
+    map.getCanvas().style.cursor = (features.length) ? 'pointer' : '';
 
+    if (!features.length) {
+        popup.remove();
+        return;
+    }
+
+    var feature = features[0];
+    popup.setLngLat(map.unproject(f.point))
+        .setHTML(feature.properties.name)
+        .addTo(map);
+});
 
 
 var toggleableLayerIds = [ 'amenity', 'highway', 'poi' ];
