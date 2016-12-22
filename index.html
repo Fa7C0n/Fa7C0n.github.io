@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <meta charset='utf-8' />
-    <title></title>
+    <title>Mapping-106</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.29.0/mapbox-gl.css' rel='stylesheet' />
-    <script src="./highway.js"></script>
+    <link rel='shortcut icon' href='path/to/favicon.ico' type='image/x-icon' />
+    <link href='https://www.mapbox.com/base/latest/base.css' rel='stylesheet' />
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
     </style>
 </head>
 <body>
+
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.0.1/mapbox-gl-geocoder.js'></script>
+<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.0.1/mapbox-gl-geocoder.css' type='text/css' />
 
 <style>
     #menu {
@@ -66,15 +71,21 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiZmE3YzBuIiwiYSI6ImNpdzFwZ3B3ajA5YzcydG1kdDI2e
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/streets-v9',
-    zoom: 15,
+    zoom: 14,
     center: [77.436,11.455],
     hash: true
 });
 
+map.addControl(new MapboxGeocoder({
+    accessToken: mapboxgl.accessToken
+}), 'top-left');
+
+map.addControl(new mapboxgl.NavigationControl(), 'top-left');
+
 map.on('load', function () {
     map.addSource('highway', {
         type: 'geojson',
-        data: './highway.geojson'
+        data: './geojson/highway.geojson'
     });
 
     map.addLayer({
@@ -94,7 +105,7 @@ map.on('load', function () {
 
     map.addSource('amenity', {
         type: 'geojson',
-        data: './amenity.geojson'
+        data: './geojson/amenity.geojson'
     });
     map.addLayer({
         'id': 'amenity',
@@ -106,9 +117,27 @@ map.on('load', function () {
             'fill-opacity': 0.8
         }
     });
+    map.addSource('poi',{
+        type: 'geojson',
+        data: './geojson/points.geojson'
+    });
+
+
+    map.addLayer({
+        'id': 'poi',
+        'type': 'circle',
+        'source': 'poi',
+        'layout': {
+            'visibility': 'visible'
+        },
+        'paint': {
+            'circle-radius': 8,
+            'circle-color': "#ffh088"
+        },
+    });
 });
 
-var toggleableLayerIds = [ 'amenity', 'highway' ];
+var toggleableLayerIds = [ 'amenity', 'highway', 'poi' ];
 
 for (var i = 0; i < toggleableLayerIds.length; i++) {
     var id = toggleableLayerIds[i];
