@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Home</title>
+        <link>https://example.com/</link>
+        <description>A personal blog for my thoughts</description>
+        <generator>Hugo 0.71.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>gokulvganesan@gmail.com (Gokul Ganesan)</managingEditor>
+        
+        
+            <webMaster>gokulvganesan@gmail.com (Gokul Ganesan)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Wed, 27 May 2020 20:16:17 &#43;0530</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+        
+        
+            <item>
+                <title>Blue Takoi French Roast Review Lazy Brew</title>
+                <link>https://example.com/posts/coffee/blue-takoi-french-roast-review/</link>
+                <guid isPermaLink="true">https://example.com/posts/coffee/blue-takoi-french-roast-review/</guid>
+                <pubDate>Wed, 27 May 2020 19:08:07 &#43;0530</pubDate>
+                
+                    <author>gokulvganesan@gmail.com (Gokul Ganesan)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;coffee&#34;&gt;Coffee&lt;/h1&gt;
+&lt;p&gt;As a coffee lover I love my morning boost of caffine from a well brewed unsweetened black coffee. I used to get this caffine boost from my office coffee machines which ranged from a high quality beans from flying squirrel ground freshly in the office and brewed perfectly as per my taste to a generic espresso spit out by a programmed coffee machine. But this pandemic which caused a lot of trouble to the whole world caused slight inconvinence to my love of coffee. I felt the effect of this during the intial days of lockdown so I ordered my very own personal coffee machine from amazon and awaited its arrival for more than 2 months and finally got it delivered today. Because of the excitement to taste the coffee from my very own coffee machine I ordered 250g of Frech roast coffee from blue takoi ( as a coffee noob ordered the one which I can get the fastest ). But all my excitement for drinking my own coffee went to the drain because of the broken coffee machine I recieved from amazon. I don&amp;rsquo;t want to accept my defeat, so I did what a sane person will do and went to youtube for advice and voila I realised that you can make coffee without coffee machine. After all this finding I returned my broken coffee maker to amazon and started preparing my very own cup of coffee for the first time.&lt;/p&gt;
+&lt;h1 id=&#34;recipe&#34;&gt;Recipe&lt;/h1&gt;
+&lt;p&gt;Out of all the recipies I found online I went for the most easiest option available (i.e) get the needed cups of water in a pot, put 1 table spoon of coffee powder for each cup of water, let it boil until the coffee grounds sink to the bottom, take it out of the heat and let it sit for 4 minutes. That is it, just strain it into a cup and you got your cup of coffee for the morning.&lt;/p&gt;
+&lt;h1 id=&#34;thoughts&#34;&gt;Thoughts&lt;/h1&gt;
+&lt;p&gt;Right when it was boiling I felt that I am not getting the signature smell of the brewing coffee, the smell which announces that morning is here. Instead i am getting a bland smell or it was like the smell of coffee grounds after the brew is done. So, obviously the way I brewed the coffee is not right but what about the taste of the coffee? The coffee has a peculiar tastes other than what I had before, like this had the taste of water down starbucks pourover coffee. I feel that this coffee has more to offer by refining the brewing method. So tomorrow I am going to try a different brewing method, which is similar to french press but without french press.&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/coffee/">coffee</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/review/">review</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/coffee/">coffee</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/blue-takoi/">blue takoi</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/french-roast/">french roast</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/review/">review</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

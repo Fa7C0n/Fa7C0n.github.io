@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://example.com/tags/blue-takoi/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/coffee/blue-takoi-french-roast-review/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/coffee/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/coffee/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/french-roast/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2020-05-27T20:06:06+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/review/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/review/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-05-27T20:05:51+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2020-05-27T20:06:06+05:30</lastmod>
+  </url>
+  
+</urlset>
