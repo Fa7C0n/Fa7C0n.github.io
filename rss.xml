@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Home</title>
-        <link>https://example.com/</link>
+        <link>https://fa7c0n.github.io/</link>
         <description>A personal blog for my thoughts</description>
         <generator>Hugo 0.71.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Wed, 27 May 2020 20:16:17 &#43;0530</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2020 16:39:07 &#43;0530</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://fa7c0n.github.io/rss.xml" />
         
         
             <item>
                 <title>Blue Takoi French Roast Review Lazy Brew</title>
-                <link>https://example.com/posts/coffee/blue-takoi-french-roast-review/</link>
-                <guid isPermaLink="true">https://example.com/posts/coffee/blue-takoi-french-roast-review/</guid>
+                <link>https://fa7c0n.github.io/posts/coffee/blue-takoi-french-roast-review/</link>
+                <guid isPermaLink="true">https://fa7c0n.github.io/posts/coffee/blue-takoi-french-roast-review/</guid>
                 <pubDate>Wed, 27 May 2020 19:08:07 &#43;0530</pubDate>
                 
                     <author>gokulvganesan@gmail.com (Gokul Ganesan)</author>
@@ -56,13 +56,13 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/coffee/">coffee</category>
+                                    <category domain="https://fa7c0n.github.io/categories/coffee/">coffee</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/review/">review</category>
+                                    <category domain="https://fa7c0n.github.io/categories/review/">review</category>
                                 
                             
                         
@@ -72,25 +72,25 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/coffee/">coffee</category>
+                                    <category domain="https://fa7c0n.github.io/tags/coffee/">coffee</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/blue-takoi/">blue takoi</category>
+                                    <category domain="https://fa7c0n.github.io/tags/blue-takoi/">blue takoi</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/french-roast/">french roast</category>
+                                    <category domain="https://fa7c0n.github.io/tags/french-roast/">french roast</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/review/">review</category>
+                                    <category domain="https://fa7c0n.github.io/tags/review/">review</category>
                                 
                             
                         

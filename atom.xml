@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2020-05-27T20:16:17&#43;05:30</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2020-05-28T16:39:07&#43;05:30</updated>
+    <id>https://fa7c0n.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://fa7c0n.github.io/atom.xml" />
     <author>
             <name>Gokul Ganesan</name>
-            <uri>https://example.com/</uri>
+            <uri>https://fa7c0n.github.io/</uri>
             
                 <email>gokulvganesan@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.71.0">Hugo</generator>
         <entry>
             <title type="text">Blue Takoi French Roast Review Lazy Brew</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/coffee/blue-takoi-french-roast-review/" />
-            <id>https://example.com/posts/coffee/blue-takoi-french-roast-review/</id>
+            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/coffee/blue-takoi-french-roast-review/" />
+            <id>https://fa7c0n.github.io/posts/coffee/blue-takoi-french-roast-review/</id>
             <updated>2020-05-27T20:05:51&#43;05:30</updated>
             <published>2020-05-27T19:08:07&#43;05:30</published>
             <author>
@@ -47,13 +47,13 @@
                             
                             
                             
-                                <category scheme="https://example.com/categories/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://fa7c0n.github.io/categories/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/categories/review/" term="review" label="review" />
+                                <category scheme="https://fa7c0n.github.io/categories/review/" term="review" label="review" />
                             
                         
                     
@@ -63,25 +63,25 @@
                             
                             
                             
-                                <category scheme="https://example.com/tags/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://fa7c0n.github.io/tags/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/blue-takoi/" term="blue takoi" label="blue takoi" />
+                                <category scheme="https://fa7c0n.github.io/tags/blue-takoi/" term="blue takoi" label="blue takoi" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/french-roast/" term="french roast" label="french roast" />
+                                <category scheme="https://fa7c0n.github.io/tags/french-roast/" term="french roast" label="french roast" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/review/" term="review" label="review" />
+                                <category scheme="https://fa7c0n.github.io/tags/review/" term="review" label="review" />
                             
                         
                     
