@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2020-05-29T23:53:34&#43;05:30</updated>
+    <updated>2020-05-29T23:53:54&#43;05:30</updated>
     <id>https://fa7c0n.github.io/</id>
     <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://fa7c0n.github.io/atom.xml" />
@@ -16,6 +16,102 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.71.0">Hugo</generator>
+        <entry>
+            <title type="text">Blue Tokai French Roast Review Pour Over</title>
+            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-pour-over/" />
+            <id>https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-pour-over/</id>
+            <updated>2020-05-29T23:53:50&#43;05:30</updated>
+            <published>2020-05-29T23:28:23&#43;05:30</published>
+            <author>
+                    <name>Gokul Ganesan</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>gokulvganesan@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Coffee Continuation of the blue tokai french roast coffee review, in this edition I will be talking about a new brewing method the best so far for this coffee. The difference in this type of brewing is the time water takes to interact with the finely ground coffee, with pour over brewing the interaction between water and coffee is kept to the minimum.</summary>
+            
+                <content type="html">&lt;h1 id=&#34;coffee&#34;&gt;Coffee&lt;/h1&gt;
+&lt;p&gt;Continuation of the blue tokai french roast coffee review, in this edition I
+will be talking about a new brewing method the best so far for this coffee.
+The difference in this type of brewing is the time water takes to interact with
+the finely ground coffee, with pour over brewing the interaction between water
+and coffee is kept to the minimum. Due to that the aroma of the coffee is well
+preserved in this brew.&lt;/p&gt;
+&lt;h1 id=&#34;recipe&#34;&gt;Recipe&lt;/h1&gt;
+&lt;p&gt;Take necessary cups ( 1 cup ~ 250ml) of water in a pot, heat it until it boils,
+let it sit for 1-2min, take a strainer, add 1 tablespoon of coffee grounds per
+cup in the strainer, put the strainer on top of the cup and pour the hot water
+over the coffee grounds slowly. Fill the cup and serve hot.&lt;/p&gt;
+&lt;h1 id=&#34;thoughts&#34;&gt;Thoughts&lt;/h1&gt;
+&lt;p&gt;With the pour brew I got the best results so far in terms of taste, aroma,
+boldness and strength. With this brew I got the perfect strength of the coffee
+with perfect aroma, the taste of the coffee is not watered down instead it was
+very bold and strong. The main draw back I had with this brew is the mesh size
+of my strainer, which was not fine enough to filter all the coffee grounds, so
+there was a lot of sediments in the bottom of the cup. In the next iteration I
+should add coffee filter paper on top of the strainer and brew the coffee, with
+this addition there should be a drop in the amount of sediments passing through.
+I will compare this brew with the french press and post the experience once I
+recieve the frech press from amazon.&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/categories/coffee/" term="coffee" label="coffee" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/categories/review/" term="review" label="review" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/coffee/" term="coffee" label="coffee" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/french-roast/" term="french roast" label="french roast" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/review/" term="review" label="review" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/pour-over/" term="pour over" label="pour over" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">என் அரசு</title>
             <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/tamil/my-government/" />
