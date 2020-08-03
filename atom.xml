@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2020-08-03T23:44:49&#43;05:30</updated>
+    <updated>2020-08-04T00:16:20&#43;05:30</updated>
     <id>https://www.gokulg.in/</id>
     <link rel="alternate" type="text/html" href="https://www.gokulg.in/" />
     <link rel="self" type="application/atom&#43;xml" href="https://www.gokulg.in/atom.xml" />
