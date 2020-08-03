@@ -23,10 +23,80 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 29 May 2020 23:53:54 &#43;0530</lastBuildDate>
+        <lastBuildDate>Mon, 03 Aug 2020 22:46:03 &#43;0530</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://fa7c0n.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Books and Ratings</title>
+                <link>https://fa7c0n.github.io/posts/reading/book_list/</link>
+                <guid isPermaLink="true">https://fa7c0n.github.io/posts/reading/book_list/</guid>
+                <pubDate>Mon, 03 Aug 2020 21:48:45 &#43;0530</pubDate>
+                
+                    <author>gokulvganesan@gmail.com (Gokul Ganesan)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;author&lt;/th&gt;
+&lt;th&gt;rating&lt;/th&gt;
+&lt;th&gt;notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/21020011-dalit-millionaires&#34;&gt;Dalit Millionaires&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Milind Khandekar&lt;/td&gt;
+&lt;td&gt;⭐ ⭐ ⭐&lt;/td&gt;
+&lt;td&gt;Good for light read, simple writing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fa7c0n.github.io/categories/books/">books</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fa7c0n.github.io/categories/rating/">rating</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://fa7c0n.github.io/tags/books/">books</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://fa7c0n.github.io/tags/rating/">rating</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Blue Tokai French Roast Review Pour Over</title>

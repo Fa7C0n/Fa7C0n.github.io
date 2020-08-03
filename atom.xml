@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2020-05-29T23:53:54&#43;05:30</updated>
+    <updated>2020-08-03T22:46:03&#43;05:30</updated>
     <id>https://fa7c0n.github.io/</id>
     <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://fa7c0n.github.io/atom.xml" />
@@ -16,6 +16,79 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.71.0">Hugo</generator>
+        <entry>
+            <title type="text">Books and Ratings</title>
+            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/reading/book_list/" />
+            <id>https://fa7c0n.github.io/posts/reading/book_list/</id>
+            <updated>2020-08-03T22:44:18&#43;05:30</updated>
+            <published>2020-08-03T21:48:45&#43;05:30</published>
+            <author>
+                    <name>Gokul Ganesan</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>gokulvganesan@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">   Title author rating notes     Dalit Millionaires Milind Khandekar ⭐ ⭐ ⭐ Good for light read, simple writing    </summary>
+            
+                <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Title&lt;/th&gt;
+&lt;th&gt;author&lt;/th&gt;
+&lt;th&gt;rating&lt;/th&gt;
+&lt;th&gt;notes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/21020011-dalit-millionaires&#34;&gt;Dalit Millionaires&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Milind Khandekar&lt;/td&gt;
+&lt;td&gt;⭐ ⭐ ⭐&lt;/td&gt;
+&lt;td&gt;Good for light read, simple writing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/categories/books/" term="books" label="books" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/categories/rating/" term="rating" label="rating" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/books/" term="books" label="books" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://fa7c0n.github.io/tags/rating/" term="rating" label="rating" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">Blue Tokai French Roast Review Pour Over</title>
             <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-pour-over/" />
