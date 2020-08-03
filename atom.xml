@@ -4,95 +4,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2020-08-03T22:46:52&#43;05:30</updated>
-    <id>https://fa7c0n.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://fa7c0n.github.io/atom.xml" />
+    <updated>2020-08-03T23:13:48&#43;05:30</updated>
+    <id>https://www.gokulg.in/</id>
+    <link rel="alternate" type="text/html" href="https://www.gokulg.in/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://www.gokulg.in/atom.xml" />
     <author>
             <name>Gokul Ganesan</name>
-            <uri>https://fa7c0n.github.io/</uri>
+            <uri>https://www.gokulg.in/</uri>
             
                 <email>gokulvganesan@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.71.0">Hugo</generator>
         <entry>
-            <title type="text">Books and Ratings</title>
-            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/reading/book_list/" />
-            <id>https://fa7c0n.github.io/posts/reading/book_list/</id>
-            <updated>2020-08-03T22:44:18&#43;05:30</updated>
-            <published>2020-08-03T21:48:45&#43;05:30</published>
-            <author>
-                    <name>Gokul Ganesan</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>gokulvganesan@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">   Title author rating notes     Dalit Millionaires Milind Khandekar ⭐ ⭐ ⭐ Good for light read, simple writing    </summary>
-            
-                <content type="html">&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Title&lt;/th&gt;
-&lt;th&gt;author&lt;/th&gt;
-&lt;th&gt;rating&lt;/th&gt;
-&lt;th&gt;notes&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/21020011-dalit-millionaires&#34;&gt;Dalit Millionaires&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Milind Khandekar&lt;/td&gt;
-&lt;td&gt;⭐ ⭐ ⭐&lt;/td&gt;
-&lt;td&gt;Good for light read, simple writing&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</content>
-            
-            
-            
-            
-            
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://fa7c0n.github.io/categories/books/" term="books" label="books" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://fa7c0n.github.io/categories/rating/" term="rating" label="rating" />
-                            
-                        
-                    
-                
-                    
-                        
-                            
-                            
-                            
-                                <category scheme="https://fa7c0n.github.io/tags/books/" term="books" label="books" />
-                            
-                        
-                            
-                            
-                            
-                                <category scheme="https://fa7c0n.github.io/tags/rating/" term="rating" label="rating" />
-                            
-                        
-                    
-                
-            
-        </entry>
-    
-        <entry>
             <title type="text">Blue Tokai French Roast Review Pour Over</title>
-            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-pour-over/" />
-            <id>https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-pour-over/</id>
+            <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-pour-over/" />
+            <id>https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-pour-over/</id>
             <updated>2020-05-29T23:53:50&#43;05:30</updated>
             <published>2020-05-29T23:28:23&#43;05:30</published>
             <author>
@@ -137,13 +64,13 @@ recieve the frech press from amazon.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://www.gokulg.in/categories/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/review/" term="review" label="review" />
+                                <category scheme="https://www.gokulg.in/categories/review/" term="review" label="review" />
                             
                         
                     
@@ -153,31 +80,31 @@ recieve the frech press from amazon.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://www.gokulg.in/tags/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
+                                <category scheme="https://www.gokulg.in/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/french-roast/" term="french roast" label="french roast" />
+                                <category scheme="https://www.gokulg.in/tags/french-roast/" term="french roast" label="french roast" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/review/" term="review" label="review" />
+                                <category scheme="https://www.gokulg.in/tags/review/" term="review" label="review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/pour-over/" term="pour over" label="pour over" />
+                                <category scheme="https://www.gokulg.in/tags/pour-over/" term="pour over" label="pour over" />
                             
                         
                     
@@ -187,8 +114,8 @@ recieve the frech press from amazon.&lt;/p&gt;
     
         <entry>
             <title type="text">என் அரசு</title>
-            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/tamil/my-government/" />
-            <id>https://fa7c0n.github.io/posts/tamil/my-government/</id>
+            <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/tamil/my-government/" />
+            <id>https://www.gokulg.in/posts/tamil/my-government/</id>
             <updated>2020-05-28T22:22:18&#43;05:30</updated>
             <published>2020-05-28T20:07:24&#43;05:30</published>
             <author>
@@ -237,13 +164,13 @@ recieve the frech press from amazon.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/tamil/" term="tamil" label="tamil" />
+                                <category scheme="https://www.gokulg.in/categories/tamil/" term="tamil" label="tamil" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/politics/" term="politics" label="politics" />
+                                <category scheme="https://www.gokulg.in/categories/politics/" term="politics" label="politics" />
                             
                         
                     
@@ -253,49 +180,49 @@ recieve the frech press from amazon.&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/tamil/" term="tamil" label="tamil" />
+                                <category scheme="https://www.gokulg.in/tags/tamil/" term="tamil" label="tamil" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/society/" term="society" label="society" />
+                                <category scheme="https://www.gokulg.in/tags/society/" term="society" label="society" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/politics/" term="politics" label="politics" />
+                                <category scheme="https://www.gokulg.in/tags/politics/" term="politics" label="politics" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/dream/" term="dream" label="dream" />
+                                <category scheme="https://www.gokulg.in/tags/dream/" term="dream" label="dream" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D/" term="தமிழ்" label="தமிழ்" />
+                                <category scheme="https://www.gokulg.in/tags/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D/" term="தமிழ்" label="தமிழ்" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%95%E0%AE%AE%E0%AF%8D/" term="சமூகம்" label="சமூகம்" />
+                                <category scheme="https://www.gokulg.in/tags/%E0%AE%9A%E0%AE%AE%E0%AF%82%E0%AE%95%E0%AE%AE%E0%AF%8D/" term="சமூகம்" label="சமூகம்" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D/" term="அரசியல்" label="அரசியல்" />
+                                <category scheme="https://www.gokulg.in/tags/%E0%AE%85%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D/" term="அரசியல்" label="அரசியல்" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/%E0%AE%95%E0%AE%A9%E0%AE%B5%E0%AF%81/" term="கனவு" label="கனவு" />
+                                <category scheme="https://www.gokulg.in/tags/%E0%AE%95%E0%AE%A9%E0%AE%B5%E0%AF%81/" term="கனவு" label="கனவு" />
                             
                         
                     
@@ -305,8 +232,8 @@ recieve the frech press from amazon.&lt;/p&gt;
     
         <entry>
             <title type="text">Blue Tokai French Roast Review French Brew</title>
-            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-french-brew/" />
-            <id>https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-french-brew/</id>
+            <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-french-brew/" />
+            <id>https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-french-brew/</id>
             <updated>2020-05-28T20:07:53&#43;05:30</updated>
             <published>2020-05-28T18:57:02&#43;05:30</published>
             <author>
@@ -360,13 +287,13 @@ and the french press here. Please sit tight until then !!&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://www.gokulg.in/categories/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/review/" term="review" label="review" />
+                                <category scheme="https://www.gokulg.in/categories/review/" term="review" label="review" />
                             
                         
                     
@@ -376,31 +303,31 @@ and the french press here. Please sit tight until then !!&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://www.gokulg.in/tags/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
+                                <category scheme="https://www.gokulg.in/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/french-roast/" term="french roast" label="french roast" />
+                                <category scheme="https://www.gokulg.in/tags/french-roast/" term="french roast" label="french roast" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/review/" term="review" label="review" />
+                                <category scheme="https://www.gokulg.in/tags/review/" term="review" label="review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/french-brew/" term="french brew" label="french brew" />
+                                <category scheme="https://www.gokulg.in/tags/french-brew/" term="french brew" label="french brew" />
                             
                         
                     
@@ -410,8 +337,8 @@ and the french press here. Please sit tight until then !!&lt;/p&gt;
     
         <entry>
             <title type="text">Blue Tokai French Roast Review Lazy Brew</title>
-            <link rel="alternate" type="text/html" href="https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-lazy-brew/" />
-            <id>https://fa7c0n.github.io/posts/coffee/blue-tokai-french-roast-review-lazy-brew/</id>
+            <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-lazy-brew/" />
+            <id>https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-lazy-brew/</id>
             <updated>2020-05-28T19:05:07&#43;05:30</updated>
             <published>2020-05-27T19:08:07&#43;05:30</published>
             <author>
@@ -439,13 +366,13 @@ and the french press here. Please sit tight until then !!&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://www.gokulg.in/categories/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/categories/review/" term="review" label="review" />
+                                <category scheme="https://www.gokulg.in/categories/review/" term="review" label="review" />
                             
                         
                     
@@ -455,31 +382,31 @@ and the french press here. Please sit tight until then !!&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/coffee/" term="coffee" label="coffee" />
+                                <category scheme="https://www.gokulg.in/tags/coffee/" term="coffee" label="coffee" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
+                                <category scheme="https://www.gokulg.in/tags/blue-tokai/" term="blue tokai" label="blue tokai" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/french-roast/" term="french roast" label="french roast" />
+                                <category scheme="https://www.gokulg.in/tags/french-roast/" term="french roast" label="french roast" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/review/" term="review" label="review" />
+                                <category scheme="https://www.gokulg.in/tags/review/" term="review" label="review" />
                             
                         
                             
                             
                             
-                                <category scheme="https://fa7c0n.github.io/tags/lazy-brew/" term="lazy brew" label="lazy brew" />
+                                <category scheme="https://www.gokulg.in/tags/lazy-brew/" term="lazy brew" label="lazy brew" />
                             
                         
                     
