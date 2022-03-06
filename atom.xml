@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2022-03-06T14:40:45&#43;05:30</updated>
+    <updated>2022-03-06T14:53:22&#43;05:30</updated>
     <id>https://www.gokulg.in/</id>
     <link rel="alternate" type="text/html" href="https://www.gokulg.in/" />
     <link rel="self" type="application/atom&#43;xml" href="https://www.gokulg.in/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">காவு</title>
             <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/tamil/kaavu/" />
             <id>https://www.gokulg.in/posts/tamil/kaavu/</id>
-            <updated>2022-03-06T14:40:34&#43;05:30</updated>
+            <updated>2022-03-06T14:52:51&#43;05:30</updated>
             <published>2021-12-09T23:25:24&#43;05:30</published>
             <author>
                     <name>Gokul Ganesan</name>
