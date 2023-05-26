@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Home</title>
     <subtitle type="html">A personal blog for my thoughts</subtitle>
-    <updated>2022-03-06T14:53:22&#43;05:30</updated>
+    <updated>2023-05-27T00:19:27&#43;05:30</updated>
     <id>https://www.gokulg.in/</id>
     <link rel="alternate" type="text/html" href="https://www.gokulg.in/" />
     <link rel="self" type="application/atom&#43;xml" href="https://www.gokulg.in/atom.xml" />
@@ -15,12 +15,12 @@
                 <email>gokulvganesan@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
-    <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.68.3">Hugo</generator>
         <entry>
             <title type="text">காவு</title>
             <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/tamil/kaavu/" />
             <id>https://www.gokulg.in/posts/tamil/kaavu/</id>
-            <updated>2022-03-06T14:52:51&#43;05:30</updated>
+            <updated>2023-05-26T23:33:46&#43;05:30</updated>
             <published>2021-12-09T23:25:24&#43;05:30</published>
             <author>
                     <name>Gokul Ganesan</name>
@@ -114,7 +114,7 @@
             <title type="text">Blue Tokai French Roast Review Pour Over</title>
             <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-pour-over/" />
             <id>https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-pour-over/</id>
-            <updated>2021-12-09T23:21:44&#43;05:30</updated>
+            <updated>2023-05-26T23:33:46&#43;05:30</updated>
             <published>2020-05-29T23:28:23&#43;05:30</published>
             <author>
                     <name>Gokul Ganesan</name>
@@ -210,7 +210,7 @@ recieve the frech press from amazon.&lt;/p&gt;
             <title type="text">என் அரசு</title>
             <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/tamil/my-government/" />
             <id>https://www.gokulg.in/posts/tamil/my-government/</id>
-            <updated>2021-12-09T23:21:44&#43;05:30</updated>
+            <updated>2023-05-26T23:33:46&#43;05:30</updated>
             <published>2020-05-28T20:07:24&#43;05:30</published>
             <author>
                     <name>Gokul Ganesan</name>
@@ -328,7 +328,7 @@ recieve the frech press from amazon.&lt;/p&gt;
             <title type="text">Blue Tokai French Roast Review French Brew</title>
             <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-french-brew/" />
             <id>https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-french-brew/</id>
-            <updated>2021-12-09T23:21:44&#43;05:30</updated>
+            <updated>2023-05-26T23:33:46&#43;05:30</updated>
             <published>2020-05-28T18:57:02&#43;05:30</published>
             <author>
                     <name>Gokul Ganesan</name>
@@ -433,7 +433,7 @@ and the french press here. Please sit tight until then !!&lt;/p&gt;
             <title type="text">Blue Tokai French Roast Review Lazy Brew</title>
             <link rel="alternate" type="text/html" href="https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-lazy-brew/" />
             <id>https://www.gokulg.in/posts/coffee/blue-tokai-french-roast-review-lazy-brew/</id>
-            <updated>2021-12-09T23:21:44&#43;05:30</updated>
+            <updated>2023-05-26T23:33:46&#43;05:30</updated>
             <published>2020-05-27T19:08:07&#43;05:30</published>
             <author>
                     <name>Gokul Ganesan</name>
